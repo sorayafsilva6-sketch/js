@@ -1,0 +1,5 @@
+console.log(Math.max(9, 20, 2))
+console.log(Math.log(10))
+console.log(Math.random())
+console.log(Math.floor(Math.random()))
+console.log(Math.random(Math.random() *10) + 1)
